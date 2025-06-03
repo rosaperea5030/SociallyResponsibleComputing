@@ -1,9 +1,14 @@
-# SociallyResponsibleComputing
-For academic environments
-# Academic Roster Management Program
+# Socially Responsible Computing - Academic Roster Project
 
-This program aims for reusable code for parsing student information in academic environments.  
-The use of soft delete is implemented, giving future use of this program an extra firewall against potential mistakes during the data entry process.
+This program demonstrates reusable code for parsing student information in academic environments.
 
-Within our program, we flagged mistakes, preventing student information from being lost forever and making it possible for those mistakes to be easily fixed by the next programmer.
+### Key Features:
+- Soft delete to flag invalid records instead of erasing them
+- Validation of email formats
+- Calculation of average days per course
+- Filtering by degree program(Security, Networking, Software)
 
+This solution helps preserve data integrity and makes it easier for future developers to review or fix issues.
+
+**Author:** Rosa Perea
+**Course:** C++2 - Final Project
