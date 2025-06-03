@@ -1,0 +1,2 @@
+# SociallyResponsibleComputing
+For academic environments
